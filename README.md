@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @phenngot
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning web development
+- 💞️ I’m looking to collaborate on web projects
+- 📫 How to reach me: contact @phenchua29
+- ⚡ Fun fact: this is just my alt
