@@ -2,5 +2,5 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on web projects
-- 📫 How to reach me: contact @phenchua29
+- 📫 How to reach me: contact [@phenchua29](https://github.com/PhenChua29)
 - ⚡ Fun fact: this is just my alt
